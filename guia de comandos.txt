@@ -7,3 +7,5 @@ git add .
 git commit -m "Mensagem do commit"
 
 git push origin main
+
+agora estamos na branch nova -> git checkout -b "dev" <- (nome da branch)
